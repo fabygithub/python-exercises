@@ -1,0 +1,108 @@
+
+.heading{
+    margin-top: 0;
+    background-color: rgb(216, 232, 232);
+}
+
+.navnav-list{
+    margin-top: 0;
+}
+
+
+.mdl-grid {
+    padding: 0px;
+}
+
+.mdl-grid {
+    /*
+    display: -webkit-flex;
+    */
+    /*
+    display: -ms-flexbox;
+    */
+    
+    display: flex;
+    
+    /*
+    -webkit-flex-flow: row wrap;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    */
+    margin: 0 auto;
+    /*
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    */
+}
+
+
+.mdl-cell {
+    
+    /*
+    box-sizing: border-box;
+    */
+}
+
+
+
+.mdl-card {
+    /*
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    */
+    /*
+    display: flex;
+    */
+
+    /*
+    -webkit-flex-direction: column;
+    */
+
+    /*
+    -ms-flex-direction: column;
+    */
+
+
+    flex-direction: column;
+
+    /*
+    font-size: 16px;
+    font-weight: 400;
+    min-height: 500px;
+    
+    
+    overflow: hidden;
+    */
+    
+    width: 330px;
+    
+    /*
+    z-index: 1;
+    position: relative;
+    */
+    background: #f1ea10;
+    /*
+    border-radius: 2px;
+    box-sizing: border-box;
+    */
+    
+}
+
+.mdl-shadow--6dp {
+    
+ box-shadow: 0 6px 10px 0 rgb(0 0 0 / 14%), 0 1px 18px 0 rgb(0 0 0 / 12%), 0 3px 5px -1px rgb(0 0 0 / 20);     
+}
+
+  
+
+.mdl-shadow--2dp {
+    
+   box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 20%), 0 1px 5px 0 rgb(0 0 0 / 12%);    
+}
+
+
+
+
+
+
